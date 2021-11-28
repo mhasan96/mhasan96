@@ -44,7 +44,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/mhasan96/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=technicalboyemon">
+    <img src="https://komarev.com/ghpvc/?username=mhasan96">
 </a>
-<a href="https://github.com/mhasan96?tab=followers"><img src="https://img.shields.io/github/followers/technicalboyemon?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/mhasan96?tab=followers"><img src="https://img.shields.io/github/followers/mhasan96?label=Followers&style=social" alt="GitHub Badge"></a>
 
