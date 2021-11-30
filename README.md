@@ -54,7 +54,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       2 hrs 52 mins   ███████████████▒░░░░░░░░░   60.90 % 
+JavaScript   1 hr 32 mins    ████████░░░░░░░░░░░░░░░░░   32.57 % 
+Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JSX          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 <!--END_SECTION:waka-->
 
