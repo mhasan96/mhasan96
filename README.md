@@ -1,80 +1,83 @@
-### Hi there, I'm <a href="" target="_blank">Mehedi Hasan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Mehedi Hasan
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehedihasan96/)
-<!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)-->
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/munnass95)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mahadi_munna/)
-<!--[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)-->
-<!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)-->
+**Graduate Research Assistant · Michigan State University**  
+Efficient and trustworthy machine learning · Foundation models · Computer vision · Robotic perception
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mhasan96.mhasan96)
+I am an M.S. student in Biosystems Engineering at Michigan State University, with a B.S. in Computer Science from BRAC University. My research connects efficient learning and reliable evaluation with practical perception and automation systems. I am preparing for **Fall 2027 PhD applications**.
 
-I am a full-stack software engineer and Machine Learning Enthusiast . I love programming, writing, speaking and traveling.
+[Website](https://sites.google.com/view/i-am-mehedi) · [Google Scholar](https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/mehedihasan96/) · [Email](mailto:hasanme1@msu.edu)
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+## Research interests
 
-<img align="right" alt="GIF" src="https://i.ibb.co/P4fcB1w/coding.gif" width="408" height="318" />
-  
+- **Efficient foundation models:** structural and token pruning, parameter-efficient adaptation, knowledge distillation, and vision-language learning.
+- **Trustworthy machine learning:** calibration, uncertainty, selective prediction, out-of-distribution evaluation, and external validation.
+- **Vision and intelligent systems:** medical imaging, remote sensing, detection and tracking, robotic manipulation, and intelligent sensing.
+- **Privacy-preserving learning:** federated learning and resource-aware analytics.
 
-**Talking about Personal Stuffs:**
+## Selected research
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Advance Nodes.js and Machine Learning;
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium];
-- 📫 How to reach me: mehedihasan162120@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/1ZmzDHSUNatlSz9ol8kFIRHpbdkLZoSoT/view).
+### TAP-Path — Efficient and trustworthy pathology foundation models
 
-</br>
+Task-adaptive structural and token pruning for Virchow2, combined with reliability evaluation and frozen external validation. The [preprint](https://arxiv.org/abs/2609.04071) reports **24.96% fewer encoder parameters**, **35.20% lower analytical encoder FLOPs**, and **91.22% mean accuracy on 433 external CPTAC samples**.
 
-## 🚀 Languages and Tools:
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/rest-api/"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
-    <a href="https://java.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/> </a>
-    <a href="https://heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
-</p>
+**Status:** arXiv preprint, 2026.
 
-</br>
+### CIRR-MoE — Reliability-guided mixture of experts
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+Cross-inductive routing learned from out-of-fold expert errors, separating expert competence, prediction-failure risk, and unfamiliarity. The project studies conformal coverage, selective prediction, out-of-distribution detection, robustness, and external evaluation for industrial prediction.
 
-```text
-No activity tracked
-```
+**Status:** manuscript under review, 2026.
 
-<!--END_SECTION:waka-->
+### ChainDoRA — Parameter-efficient LLM adaptation
 
+Co-developed a Tensor-Train factorized extension of weight-decomposed low-rank adaptation. The [preprint](https://doi.org/10.13140/RG.2.2.25941.18402) reports **72.30% average accuracy across seven commonsense benchmarks** on LLaMA-7B with **5.35M trainable parameters**, compared with 56.98M for DoRA in the study's matched setting.
 
-📈 **My GitHub Stats:**
+**Status:** preprint, 2026. · [Project repository](https://github.com/AshfakYeafi/Chain-DoRA)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhasan96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasan96&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+### LIA-MTR — Memory-efficient vision-language learning
 
-## ❤ Views and Followers
-<a href="https://github.com/mhasan96/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mhasan96">
-</a>
-<a href="https://github.com/mhasan96?tab=followers"><img src="https://img.shields.io/github/followers/mhasan96?label=Followers&style=social" alt="GitHub Badge"></a>
+Co-developed a recurrent multi-timescale retention bridge with linear sequence-interaction complexity. The [preprint](https://arxiv.org/abs/2608.01614) reports processing **262,144 visual patches within 11.2 GB VRAM** in its hardware benchmark.
 
+**Status:** arXiv preprint, 2026.
 
+### AquaPick — Vision-guided robotic handling
 
+A perception-to-action pipeline for deformable catfish fillets, integrating detection, Kalman tracking, conveyor-motion prediction, camera-to-robot mapping, and suction handling. My work includes dataset curation, detector evaluation, system integration, and physical validation with Cartesian and delta-arm systems.
 
+**Status:** ongoing research and journal manuscript development. · [Related SPIE work](https://doi.org/10.1117/12.3095045) · [Related ASABE work](https://doi.org/10.13031/aim.202500466)
 
+### LoveDA — Resolution-aware remote-sensing segmentation
+
+Developed a SegFormer-B2 land-cover segmentation pipeline using weighted cross-entropy/Dice training and overlapping tiled inference.
+
+| Validation inference protocol | mIoU |
+| --- | ---: |
+| Images resized to 512 × 512 | 49.45% |
+| Native 1024 × 1024 images evaluated with overlapping 512 × 512 tiles | **53.09%** |
+
+The tiled evaluation covered **1,669 LoveDA validation images** across seven land-cover classes. The **3.64 percentage-point gain** came from changing inference resolution and tiling with the retained checkpoint; additional continuation fine-tuning did not produce the selected improvement. These are project validation results, not a test-server or state-of-the-art claim.
+
+**Status:** ongoing experimental project, 2026.
+
+## Background
+
+- **Michigan State University:** graduate research in machine vision, intelligent sensing, and robotic automation for food processing.
+- **BRAC University and research collaborations:** computer vision, medical AI, efficient language models, and privacy-preserving learning.
+- **Huawei Technologies Bangladesh:** former Solution Engineer working with service and network analytics.
+- **BRACU Mongol Tori:** earlier contributions to rover perception and autonomy.
+
+## Tools and engineering
+
+**Research:** Python, C/C++, SQL, MATLAB, PyTorch, TensorFlow/Keras, Hugging Face Transformers/PEFT, scikit-learn, OpenCV, and YOLO.
+
+**Systems:** Linux, Git, Docker, Jupyter, ROS/ROS2, camera calibration, tracking, and robotic integration.
+
+**Software development:** JavaScript/TypeScript, React, Node.js, MySQL, MongoDB, and Firebase.
+
+## Publications and contact
+
+See my [Google Scholar profile](https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en) for the full publication record and my [website](https://sites.google.com/view/i-am-mehedi) for research updates.
+
+For research opportunities and collaboration: **[hasanme1@msu.edu](mailto:hasanme1@msu.edu)**.
+
+[Personal email](mailto:mehedihasan162120@gmail.com) · [X / Twitter](https://twitter.com/munnass95) · [Instagram](https://instagram.com/mahadi_munna/) · [Earlier résumé](https://drive.google.com/file/d/1ZmzDHSUNatlSz9ol8kFIRHpbdkLZoSoT/view)
