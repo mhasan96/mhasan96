@@ -1,83 +1,140 @@
-# Mehedi Hasan
+<div align="center">
+
+![Mehedi Hasan — efficient AI, reliable perception, and intelligent systems](assets/research-banner.png)
+
+### Welcome — I'm Mehedi
 
 **Graduate Research Assistant · Michigan State University**  
-Efficient and trustworthy machine learning · Foundation models · Computer vision · Robotic perception
+M.S. in Biosystems Engineering · B.S. in Computer Science, BRAC University
 
-I am an M.S. student in Biosystems Engineering at Michigan State University, with a B.S. in Computer Science from BRAC University. My research connects efficient learning and reliable evaluation with practical perception and automation systems. I am preparing for **Fall 2027 PhD applications**.
+[Website](https://sites.google.com/view/i-am-mehedi) &nbsp; / &nbsp; [Google Scholar](https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/mehedihasan96/) &nbsp; / &nbsp; [Email](mailto:hasanme1@msu.edu)
 
-[Website](https://sites.google.com/view/i-am-mehedi) · [Google Scholar](https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/mehedihasan96/) · [Email](mailto:hasanme1@msu.edu)
+**Seeking Fall 2027 PhD opportunities in AI, computer vision, and intelligent systems.**
 
-## Research interests
+</div>
 
-- **Efficient foundation models:** structural and token pruning, parameter-efficient adaptation, knowledge distillation, and vision-language learning.
-- **Trustworthy machine learning:** calibration, uncertainty, selective prediction, out-of-distribution evaluation, and external validation.
-- **Vision and intelligent systems:** medical imaging, remote sensing, detection and tracking, robotic manipulation, and intelligent sensing.
-- **Privacy-preserving learning:** federated learning and resource-aware analytics.
+I develop learning and perception methods that connect **computational efficiency**, **reliable evaluation**, and **physical systems**. My work spans pathology foundation models, parameter-efficient language-model adaptation, vision-language learning, industrial reliability, remote-sensing segmentation, and vision-guided robotics.
 
-## Selected research
+At Michigan State, I work on machine vision and robotic manipulation for automated handling of deformable food products. My background also includes research collaborations in medical AI and privacy-preserving learning, engineering at Huawei, and rover perception with BRACU Mongol Tori.
 
-### TAP-Path — Efficient and trustworthy pathology foundation models
+## Research directions
 
-Task-adaptive structural and token pruning for Virchow2, combined with reliability evaluation and frozen external validation. The [preprint](https://arxiv.org/abs/2609.04071) reports **24.96% fewer encoder parameters**, **35.20% lower analytical encoder FLOPs**, and **91.22% mean accuracy on 433 external CPTAC samples**.
+| Learn efficiently | Sense the world | Decide reliably |
+| --- | --- | --- |
+| Foundation models, LLMs/VLMs, pruning, PEFT, and distillation | Computer vision, remote sensing, geospatial AI, robotic perception, and intelligent sensing | Calibration, uncertainty, selective prediction, OOD evaluation, and privacy-preserving learning |
 
-**Status:** arXiv preprint, 2026.
+## Selected projects
 
-### CIRR-MoE — Reliability-guided mixture of experts
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Cross-inductive routing learned from out-of-fold expert errors, separating expert competence, prediction-failure risk, and unfamiliarity. The project studies conformal coverage, selective prediction, out-of-distribution detection, robustness, and external evaluation for industrial prediction.
+### [TAP-Path](https://github.com/mhasan96/TAP-Path)
+**Efficient pathology foundation models**
 
-**Status:** manuscript under review, 2026.
+<a href="https://github.com/mhasan96/TAP-Path"><img src="https://raw.githubusercontent.com/mhasan96/TAP-Path/main/assets/architecture.png" width="420" alt="TAP-Path compression architecture"></a>
 
-### ChainDoRA — Parameter-efficient LLM adaptation
+Structural and token pruning for Virchow2. The manuscript reports **24.96% fewer encoder parameters** and **35.20% lower analytical encoder FLOPs**.
 
-Co-developed a Tensor-Train factorized extension of weight-decomposed low-rank adaptation. The [preprint](https://doi.org/10.13140/RG.2.2.25941.18402) reports **72.30% average accuracy across seven commonsense benchmarks** on LLaMA-7B with **5.35M trainable parameters**, compared with 56.98M for DoRA in the study's matched setting.
+*Preprint / under review* · [Paper](https://arxiv.org/abs/2609.04071)
 
-**Status:** preprint, 2026. · [Project repository](https://github.com/AshfakYeafi/Chain-DoRA)
+</td>
+<td width="50%" valign="top">
 
-### LIA-MTR — Memory-efficient vision-language learning
+### [CIRR-MoE](https://github.com/mhasan96/CIRR-MoE)
+**Decision-specific trustworthy prediction**
 
-Co-developed a recurrent multi-timescale retention bridge with linear sequence-interaction complexity. The [preprint](https://arxiv.org/abs/2608.01614) reports processing **262,144 visual patches within 11.2 GB VRAM** in its hardware benchmark.
+<a href="https://github.com/mhasan96/CIRR-MoE"><img src="https://raw.githubusercontent.com/mhasan96/CIRR-MoE/main/assets/architecture.png" width="420" alt="CIRR-MoE reliability-guided expert routing"></a>
 
-**Status:** arXiv preprint, 2026.
+Cross-fitted expert routing that separates **competence, failure risk, and unfamiliarity**, with external industrial and conformal evaluation.
 
-### AquaPick — Vision-guided robotic handling
+*Manuscript under review* · [Project and results](https://github.com/mhasan96/CIRR-MoE)
 
-A perception-to-action pipeline for deformable catfish fillets, integrating detection, Kalman tracking, conveyor-motion prediction, camera-to-robot mapping, and suction handling. My work includes dataset curation, detector evaluation, system integration, and physical validation with Cartesian and delta-arm systems.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Status:** ongoing research and journal manuscript development. · [Related SPIE work](https://doi.org/10.1117/12.3095045) · [Related ASABE work](https://doi.org/10.13031/aim.202500466)
+### [ChainDoRA](https://github.com/mhasan96/ChainDoRA)
+**Parameter-efficient LLM adaptation**
 
-### LoveDA — Resolution-aware remote-sensing segmentation
+<a href="https://github.com/mhasan96/ChainDoRA"><img src="https://raw.githubusercontent.com/mhasan96/ChainDoRA/main/assets/architecture.png" width="420" alt="ChainDoRA Tensor-Train adaptation"></a>
 
-Developed a SegFormer-B2 land-cover segmentation pipeline using weighted cross-entropy/Dice training and overlapping tiled inference.
+Co-developed connected Tensor-Train directional adaptation. The paper reports **72.30%** seven-task average with **5.35M** trainable parameters on LLaMA-7B.
 
-| Validation inference protocol | mIoU |
-| --- | ---: |
-| Images resized to 512 × 512 | 49.45% |
-| Native 1024 × 1024 images evaluated with overlapping 512 × 512 tiles | **53.09%** |
+*Preprint* · [Paper](https://doi.org/10.13140/RG.2.2.25941.18402) · [Collaborator repository](https://github.com/AshfakYeafi/Chain-DoRA)
 
-The tiled evaluation covered **1,669 LoveDA validation images** across seven land-cover classes. The **3.64 percentage-point gain** came from changing inference resolution and tiling with the retained checkpoint; additional continuation fine-tuning did not produce the selected improvement. These are project validation results, not a test-server or state-of-the-art claim.
+</td>
+<td width="50%" valign="top">
 
-**Status:** ongoing experimental project, 2026.
+### [LIA-MTR](https://github.com/mhasan96/LIA-MTR)
+**Memory-efficient vision-language learning**
 
-## Background
+<a href="https://github.com/mhasan96/LIA-MTR"><img src="https://raw.githubusercontent.com/mhasan96/LIA-MTR/main/assets/architecture.png" width="420" alt="LIA-MTR multi-timescale retention bridge"></a>
 
-- **Michigan State University:** graduate research in machine vision, intelligent sensing, and robotic automation for food processing.
-- **BRAC University and research collaborations:** computer vision, medical AI, efficient language models, and privacy-preserving learning.
-- **Huawei Technologies Bangladesh:** former Solution Engineer working with service and network analytics.
-- **BRACU Mongol Tori:** earlier contributions to rover perception and autonomy.
+Co-developed a gated recurrent bridge for visual context, combining **linear sequence interaction** with multi-timescale retention.
 
-## Tools and engineering
+*arXiv preprint* · [Paper](https://arxiv.org/abs/2608.01614)
 
-**Research:** Python, C/C++, SQL, MATLAB, PyTorch, TensorFlow/Keras, Hugging Face Transformers/PEFT, scikit-learn, OpenCV, and YOLO.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Systems:** Linux, Git, Docker, Jupyter, ROS/ROS2, camera calibration, tracking, and robotic integration.
+### [AquaPick](https://github.com/mhasan96/AquaPick)
+**Vision-guided robotic handling**
 
-**Software development:** JavaScript/TypeScript, React, Node.js, MySQL, MongoDB, and Firebase.
+<a href="https://github.com/mhasan96/AquaPick"><img src="https://raw.githubusercontent.com/mhasan96/AquaPick/main/assets/handling-sequence.png" width="420" alt="Physical robotic suction-handling sequence"></a>
 
-## Publications and contact
+Detection, tracking, conveyor-motion prediction, camera-to-robot mapping, and suction manipulation for **deformable catfish fillets**.
 
-See my [Google Scholar profile](https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en) for the full publication record and my [website](https://sites.google.com/view/i-am-mehedi) for research updates.
+*Ongoing journal work; related SPIE/ASABE papers* · [Research and experiments](https://github.com/mhasan96/AquaPick)
 
-For research opportunities and collaboration: **[hasanme1@msu.edu](mailto:hasanme1@msu.edu)**.
+</td>
+<td width="50%" valign="top">
 
-[Personal email](mailto:mehedihasan162120@gmail.com) · [X / Twitter](https://twitter.com/munnass95) · [Instagram](https://instagram.com/mahadi_munna/) · [Earlier résumé](https://drive.google.com/file/d/1ZmzDHSUNatlSz9ol8kFIRHpbdkLZoSoT/view)
+### [LoveDA Remote Sensing](https://github.com/mhasan96/LoveDA-Remote-Sensing)
+**Resolution-aware land-cover mapping**
+
+<a href="https://github.com/mhasan96/LoveDA-Remote-Sensing"><img src="https://raw.githubusercontent.com/mhasan96/LoveDA-Remote-Sensing/main/assets/inference-comparison.png" width="420" alt="LoveDA resized versus tiled validation results"></a>
+
+SegFormer-B2 reached **53.09% mIoU on 1,669 validation images** using native 1024 × 1024 tiled inference, versus 49.45% with 512 resized inference.
+
+*Ongoing experimental project* · [Protocols and class-wise results](https://github.com/mhasan96/LoveDA-Remote-Sensing)
+
+</td>
+</tr>
+</table>
+
+Project pages include figures, result definitions, and evaluation scope. Paper results are reported measurements from the respective studies. **Code will be available upon acceptance of the corresponding paper.**
+
+## Experience
+
+**Michigan State University — Graduate Research Assistant**  
+Machine vision, intelligent sensing, robotic manipulation, and physical system evaluation for automated IQF preparation.
+
+**Research collaborations — BRAC University and partner institutions**  
+Medical AI, efficient NLP and foundation models, industrial machine learning, and privacy-preserving analytics.
+
+**Huawei Technologies Bangladesh — Solution Engineer**  
+Service and network analytics, engineering support, and technical training.
+
+**BRACU Mongol Tori — AI / Autonomy**  
+Earlier work on rover perception, marker-based localization, obstacle avoidance, and vision-assisted navigation.
+
+## Research and engineering toolkit
+
+| Area | Tools and methods |
+| --- | --- |
+| Learning | Python, PyTorch, TensorFlow/Keras, Hugging Face Transformers/PEFT, scikit-learn |
+| Vision and robotics | OpenCV, YOLO, ROS/ROS2, Kalman tracking, camera calibration, coordinate mapping |
+| Research computing | C/C++, SQL, MATLAB, Linux, Git, Docker, Jupyter, LaTeX |
+| Software development | JavaScript/TypeScript, React, Node.js, MySQL, MongoDB, Firebase |
+
+## Publications and collaboration
+
+My publication record includes work in **IEEE Journal of Biomedical and Health Informatics**, **IEEE Access**, and conference venues. See [Google Scholar](https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en) for the complete record and my [website](https://sites.google.com/view/i-am-mehedi) for research updates.
+
+I welcome conversations about **Fall 2027 PhD opportunities** and research in efficient AI, trustworthy learning, computer vision, remote sensing, and robotic perception.
+
+**[hasanme1@msu.edu](mailto:hasanme1@msu.edu)**
