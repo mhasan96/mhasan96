@@ -131,6 +131,12 @@ Earlier work on rover perception, marker-based localization, obstacle avoidance,
 | Research computing | C/C++, SQL, MATLAB, Linux, Git, Docker, Jupyter, LaTeX |
 | Software development | JavaScript/TypeScript, React, Node.js, MySQL, MongoDB, Firebase |
 
+## Audience
+
+![Approximate profile image loads](https://komarev.com/ghpvc/?username=mhasan96&label=Profile%20image%20loads&color=127f83&style=flat)
+
+<sub>Approximate image loads, including repeat loads; this is not a unique-visitor count. Repository views and unique visitors are available to the owner through GitHub Insights.</sub>
+
 ## Publications and collaboration
 
 My publication record includes work in **IEEE Journal of Biomedical and Health Informatics**, **IEEE Access**, and conference venues. See [Google Scholar](https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en) for the complete record and my [website](https://sites.google.com/view/i-am-mehedi) for research updates.
