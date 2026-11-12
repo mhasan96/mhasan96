@@ -2,12 +2,6 @@
 
 ![Mehedi Hasan — efficient AI, reliable perception, and intelligent systems](assets/research-banner.png)
 
-### Profile visits
-
-![Total profile views](https://komarev.com/ghpvc/?username=mhasan96&label=Total%20profile%20views&color=127f83&style=for-the-badge)
-
-<sub>Cumulative counter of approximate profile views, including repeat visits; not unique visitors.</sub>
-
 ### Welcome — I'm Mehedi
 
 **Graduate Research Assistant · Michigan State University**  
@@ -144,3 +138,15 @@ My publication record includes work in **IEEE Journal of Biomedical and Health I
 I welcome conversations about **Fall 2027 PhD opportunities** and research in efficient AI, trustworthy learning, computer vision, remote sensing, and robotic perception.
 
 **[hasanme1@msu.edu](mailto:hasanme1@msu.edu)**
+
+---
+
+<div align="center">
+
+### Profile visits
+
+[![Today's visits / overall visits](https://hits.sh/github.com/mhasan96.svg?view=today-total&label=Today%20%2F%20Overall%20visits&color=127f83&style=for-the-badge)](https://hits.sh/github.com/mhasan96/)
+
+<sub>Left number: today's visits · Right number: overall visits since this counter was added. Approximate image loads, including repeat visits; not unique people.</sub>
+
+</div>
