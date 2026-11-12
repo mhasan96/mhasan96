@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/research-hero.png">
-  <img src="assets/research-hero.gif" alt="Mehedi Hasan — Computer Vision, LLMs, VLMs & NLP, Trustworthy AI, Geospatial AI, and Robotics" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/research-focus-v2.png">
+  <img src="assets/research-focus-v2.gif" alt="Mehedi Hasan — Computer Vision, LLMs, VLMs & NLP, Trustworthy AI, Geospatial AI, and Robotics" width="100%">
 </picture>
 
 ### Graduate Research Assistant · Michigan State University
