@@ -11,6 +11,8 @@ M.S. in Biosystems Engineering &nbsp; / &nbsp; B.S. in Computer Science, BRAC Un
 
 **[Website](https://sites.google.com/view/i-am-mehedi)** &nbsp; · &nbsp; **[Google Scholar](https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en)** &nbsp; · &nbsp; **[LinkedIn](https://www.linkedin.com/in/mehedihasan96/)** &nbsp; · &nbsp; **[Email](mailto:hasanme1@msu.edu)**
 
+**Computer Vision · LLMs, VLMs & NLP · Trustworthy AI · Geospatial AI · Robotics**
+
 **Preparing for Fall 2027 PhD applications**
 
 [Research interests](#research-interests) &nbsp; / &nbsp; [Selected research](#selected-research) &nbsp; / &nbsp; [Background](#background)
@@ -199,5 +201,15 @@ I have contributed reviewing and program-committee service to IEEE Access, PRIMA
 Open to **Fall 2027 PhD opportunities** in computer vision, remote sensing, robotics, efficient foundation models, and trustworthy learning.
 
 **[hasanme1@msu.edu](mailto:hasanme1@msu.edu)**
+
+</div>
+
+<div align="center">
+
+### Profile visits
+
+[![Today / Overall visits](https://hits.sh/github.com/mhasan96.svg?view=today-total&label=Today%20%2F%20Overall%20visits&color=127f83&style=for-the-badge)](https://hits.sh/github.com/mhasan96/)
+
+<sub>Approximate image loads today / overall; repeat loads count. Not unique visitors.</sub>
 
 </div>
