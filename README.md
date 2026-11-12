@@ -2,6 +2,12 @@
 
 ![Mehedi Hasan — efficient AI, reliable perception, and intelligent systems](assets/research-banner.png)
 
+### Profile visits
+
+![Total profile views](https://komarev.com/ghpvc/?username=mhasan96&label=Total%20profile%20views&color=127f83&style=for-the-badge)
+
+<sub>Cumulative counter of approximate profile views, including repeat visits; not unique visitors.</sub>
+
 ### Welcome — I'm Mehedi
 
 **Graduate Research Assistant · Michigan State University**  
@@ -130,12 +136,6 @@ Earlier work on rover perception, marker-based localization, obstacle avoidance,
 | Vision and robotics | OpenCV, YOLO, ROS/ROS2, Kalman tracking, camera calibration, coordinate mapping |
 | Research computing | C/C++, SQL, MATLAB, Linux, Git, Docker, Jupyter, LaTeX |
 | Software development | JavaScript/TypeScript, React, Node.js, MySQL, MongoDB, Firebase |
-
-## Audience
-
-![Approximate profile image loads](https://komarev.com/ghpvc/?username=mhasan96&label=Profile%20image%20loads&color=127f83&style=flat)
-
-<sub>Approximate image loads, including repeat loads; this is not a unique-visitor count. Repository views and unique visitors are available to the owner through GitHub Insights.</sub>
 
 ## Publications and collaboration
 
